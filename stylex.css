@@ -53,7 +53,7 @@ div#res {
 
 .insta {
     border-radius: 50%;
-    width: 50px;
+    max-width: 50px;
 }
 
 pre {
