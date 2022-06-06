@@ -51,6 +51,11 @@ div#res {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.insta {
+    border-radius: 50%;
+    width: 50px;
+}
+
 pre {
     margin: auto;
     text-align: center;  
